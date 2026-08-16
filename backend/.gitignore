@@ -1,0 +1,6 @@
+target/
+.idea/
+uploads/images/
+.env
+.env.*
+!.env.example
